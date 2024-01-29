@@ -19,12 +19,13 @@ This project involves the design, analysis, and manufacturing of fidget spinners
 - **Laser Cutting and Additive Manufacturing (AM):** Employ laser cutting and AM processes for creative design elements.
 
 ### 4. Testing and Iterations
-- **Design Iterations:** Conduct testing and iterate on the design to meet specifications and constraints.
+- **Design Iterations:** Conduct testing and iterate on the design to meet specifications and constraints (GD&T).
 
 ## Provided Files
-- **Spinner Assembly CAD File:** File containing the CAD design for the assembled fidget spinner.
-- **Spinner Mold CAD File:** File containing the CAD design for the mold used in manufacturing.
+- **Spinner Part & Assembly CAD File:** Files containing the CAD design for the fidget spinner.
+- **Spinner Mold CAD Files:** Files containing the CAD design for the mold used in manufacturing.
 - **Spinner Mold CAM Files:** CAM files used in the CNC milling process for manufacturing the spinner mold.
+- **Spinner STL File:** STL file for the fidget spinner, provided for reference and further modifications.
 
 ## Usage
 1. Use the provided CAD files for the spinner assembly and mold as references for visualizing the design.
